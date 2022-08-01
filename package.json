@@ -1,12 +1,24 @@
 {
-  "name": "games",
+  "name": "p5js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating a new P5 JS project and adding the JS files, linking them again and again can be tough. Instead just clone this repository :)",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server --port=3000"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Bilal Haider",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voilknetwork/p5js-boilerplate.git"
+  },
+  "keywords": [
+    "p5js",
+    "matter.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/voilknetwork/p5js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/voilknetwork/p5js-boilerplate#readme"
 }
